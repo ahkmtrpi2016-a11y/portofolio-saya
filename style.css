@@ -46,3 +46,13 @@ html {
         height: 200px;
     }
 }
+/* Styling untuk Progress Bar Skill */
+.progress {
+    border-radius: 20px; /* Membuat ujung bar bulat */
+    background-color: #e9ecef; /* Warna track abu-abu muda */
+    box-shadow: inset 0 1px 2px rgba(0,0,0,0.1); /* Efek kedalaman */
+}
+
+.progress-bar {
+    border-radius: 20px; /* Membuat ujung isi bar juga bulat */
+}
